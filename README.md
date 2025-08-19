@@ -2,12 +2,6 @@
 
 This is a simple **Tic Tac Toe** game built using **HTML**, **CSS**, and **JavaScript**. It's a fun two-player game where Player X and Player O take turns to win the game by placing three of their marks in a horizontal, vertical, or diagonal row.
 
-## 🔗 Live Demo
-
-🎮 [Play the Game Here][(https://Susmita75.github.io/tic-tac-toe/) 
-](http://127.0.0.1:5500/index.html)
----
-
 ## 🛠 Technologies Used
 
 - **HTML** – To build the structure of the game
